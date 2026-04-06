@@ -1,2 +1,7 @@
 # -Mental-Health-Addiction-Recovery-Management-System-with-Python-Integrated-Relational-Database
-A full-stack desktop application built with  Python (Tkinter) and MySQL — featuring user  assessment, auto score calculation using SQL  Triggers, and an Admin Analytics Dashboard.
+
+*A desktop-based application built using Python (Tkinter) and MySQL for managing mental health and addiction recovery data.
+
+*Features include user assessment, automated score calculation using SQL triggers, and an admin analytics dashboard for data analysis and monitoring.
+
+*This project demonstrates skills in Python programming, database integration, and GUI development.
